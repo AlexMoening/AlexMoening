@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlexMoening an AWS Edge Specilist
+- 👀 I’m all things Edge Tech
+- 🌱 I’m currently learning more about IoT / ESP32
+- 💞️ I’m looking to collaborate on edge technologies... 
+- 😄 Pronouns: He/Him
